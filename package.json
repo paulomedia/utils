@@ -1,0 +1,47 @@
+{
+  "name": "utils",
+  "version": "0.0.1",
+  "description": "Utils For Node",
+  "main": "server.js",
+  "author": "malfonso <paulo.media@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "mongodb",
+    "hapi",
+    "node"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "---"
+  },
+  "bugs": {
+    "url": "---"
+  },
+  "dependencies": {
+    "bcrypt": "^3.0.3",
+    "blipp": "^3.1.2",
+    "boom": "^7.3.0",
+    "config": "^3.0.1",
+    "crypto-js": "^3.1.9-1",
+    "good": "^8.1.2",
+    "good-console": "^7.1.0",
+    "good-squeeze": "^5.1.0",
+    "handlebars": "^4.0.12",
+    "hapi": "^18.0.0",
+    "hapi-auth-jwt2": "^8.2.0",
+    "hapi-swagger": "^9.3.0",
+    "inert": "^5.1.2",
+    "joi": "^14.3.1",
+    "lodash": "^4.17.11",
+    "moment": "^2.23.0",
+    "mongoose": "^5.4.5",
+    "nodemailer": "^5.1.1",
+    "path": "^0.12.7",
+    "q": "^1.5.1",
+    "require-directory": "^2.1.1",
+    "uuid": "^3.3.2",
+    "vision": "^5.4.4",
+    "web-push": "^3.3.3"
+  },
+  "devDependencies": {}
+}

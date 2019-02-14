@@ -1,0 +1,15 @@
+# Project specific #
+####################
+#scripts
+farma-backend.zip
+farma_backend.zip
+
+# Node specific #
+#################
+npm-debug.log
+node_modules
+
+# IDE Specific #
+################
+.idea
+.DS_Store
